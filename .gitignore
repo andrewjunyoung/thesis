@@ -1,0 +1,10 @@
+*.log
+*.aux
+.DS_Store
+*.texoutput
+*.bbl
+*.blg
+*.lof
+*.lot
+*.out
+*.toc

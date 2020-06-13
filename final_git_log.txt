@@ -1,0 +1,215 @@
+* bb135b9 - Sat, 13 Jun 2020 23:17:21 +0000 (19 minutes ago) (HEAD -> master)
+|           Final push. - ajy
+* de3f094 - Wed, 19 Jun 2019 09:35:45 +0100 (12 months ago) (origin/master)
+|           Image updates. - andrewjunyoung
+* d65f9b5 - Wed, 19 Jun 2019 08:50:28 +0100 (12 months ago)
+|           Latest updates. - andrewjunyoung
+* 145c3d7 - Tue, 18 Jun 2019 12:04:05 +0100 (12 months ago)
+|           Nearly done report. Added pie chart. - andrewjunyoung
+* d2e3f33 - Thu, 13 Jun 2019 14:56:06 +0100 (1 year ago)
+|           Updated resources and images, and made changes in response to Andrea, Rachel's feedback. - andrewjunyoung
+* 87e0241 - Tue, 11 Jun 2019 17:21:39 +0100 (1 year ago)
+|           Done draft for all chapters except 5,7,8. Going through Andrea's feedback. - andrewjunyoung
+* e606a6f - Mon, 10 Jun 2019 22:09:51 +0100 (1 year ago)
+|           Done chapters 1..3. - andrewjunyoung
+* 393948f - Mon, 10 Jun 2019 14:26:54 +0100 (1 year ago)
+|           chapters: Updateds on chapters 1-4. - andrewjunyoung
+* e3491bd - Thu, 6 Jun 2019 23:42:43 +0100 (1 year ago)
+|           Small fixes to the report, and updated todos. - andrewjunyoung
+* 696014d - Thu, 6 Jun 2019 13:12:30 +0100 (1 year ago)
+|           [Various]: Now on draft for 06-06. Moved math to appendix, finished all chapters to draft level except 7, which is in progress. Added images, updated todo. - andrewjunyoung
+* e84c3f9 - Tue, 4 Jun 2019 00:25:55 +0100 (1 year ago)
+|           Predominantly did fixes from 2 new drafts. Updated todos; introduced long form bib citations; Resolved many todos. - andrewjunyoung
+* 88e7b74 - Mon, 3 Jun 2019 13:30:19 +0100 (1 year ago)
+|           Updated todo. - andrewjunyoung
+* 06a571d - Mon, 3 Jun 2019 13:30:11 +0100 (1 year ago)
+|           UCL: different groups now runs; testing in progress. Added other misc log files, and modified other files. - andrewjunyoung
+* 6de5ec4 - Mon, 3 Jun 2019 13:29:04 +0100 (1 year ago)
+|           Done first 6 chapters of report 1st draft; working on chapter 7 (results, eval). Also added some important general files. - andrewjunyoung
+* d0e8e0e - Fri, 31 May 2019 13:25:00 +0100 (1 year ago)
+|           chapters: Many changes, including all acronyms updated. - andrewjunyoung
+* ace3a1f - Tue, 28 May 2019 10:52:34 +0100 (1 year, 1 month ago)
+|           Updated imgs, drafts, report bibliography, and todos. - andrewjunyoung
+* dbc04ca - Tue, 28 May 2019 10:51:52 +0100 (1 year, 1 month ago)
+|           Chapters restructure complete. - andrewjunyoung
+* 6cc95a8 - Sun, 26 May 2019 02:31:17 +0100 (1 year, 1 month ago)
+|           Added new chapters. - andrewjunyoung
+* 8470424 - Sat, 11 May 2019 14:04:25 +0100 (1 year, 1 month ago)
+|           Added section on motivations for the CDR data subset. - andrewjunyoung
+* ad45a65 - Sat, 11 May 2019 13:31:51 +0100 (1 year, 1 month ago)
+|           Updated drafts. - andrewjunyoung
+* 82b685c - Sat, 11 May 2019 13:31:40 +0100 (1 year, 1 month ago)
+|           Added pytest to libraries. - andrewjunyoung
+* c7df718 - Sat, 11 May 2019 13:27:51 +0100 (1 year, 1 month ago)
+|           Added packages to the bibliography. - andrewjunyoung
+* d39fce8 - Sat, 11 May 2019 13:27:18 +0100 (1 year, 1 month ago)
+|           chapters, report: Various changes throughout the report. - andrewjunyoung
+* f9b5421 - Sat, 11 May 2019 13:16:26 +0100 (1 year, 1 month ago)
+|           Updated attakc repo. - andrewjunyoung
+* ce3747d - Sat, 11 May 2019 13:16:05 +0100 (1 year, 1 month ago)
+|           chapters/5_*: Added files for chapter 5. - andrewjunyoung
+* cbc09b3 - Sat, 11 May 2019 13:15:12 +0100 (1 year, 1 month ago)
+|           imgs: Added new results images. - andrewjunyoung
+* e1be2f9 - Sat, 11 May 2019 13:14:58 +0100 (1 year, 1 month ago)
+|           chapters/3_0_reimplementation.tex: Added description of SFC data set. - andrewjunyoung
+* c3cad8e - Thu, 18 Apr 2019 22:48:52 +0100 (1 year, 2 months ago)
+|           Updated files. - andrewjunyoung
+* f5155cd - Sun, 14 Apr 2019 19:22:05 +0200 (1 year, 2 months ago)
+|           [Various]: Added admin files for record keeping: updated PDFs, drafts, and todo files. - andrewjunyoung
+* 94ce2d4 - Sun, 14 Apr 2019 19:20:55 +0200 (1 year, 2 months ago)
+|           chapters/: Big overhaul to names and content in line with new report. - andrewjunyoung
+* f4bc685 - Tue, 9 Apr 2019 20:03:21 +0100 (1 year, 2 months ago)
+|           PCA_subset_of_locations.py: Added. - andrewjunyoung
+* d86eb46 - Thu, 4 Apr 2019 23:06:07 +0100 (1 year, 2 months ago)
+|           STABLE. chapters, report: Made changes to image loading and recompiled report. - andrewjunyoung
+* d6e6e49 - Thu, 4 Apr 2019 23:05:19 +0100 (1 year, 2 months ago)
+|           imgs/: Restructured directory and added new files for "same" results - andrewjunyoung
+* 26345b9 - Thu, 4 Apr 2019 23:04:54 +0100 (1 year, 2 months ago)
+|           Updated chapters 0, 1 for new thesis. Currently drafts. TODO: review. - andrewjunyoung
+* 29012dd - Wed, 3 Apr 2019 14:36:56 +0100 (1 year, 2 months ago)
+|           chapters/: Made changes to acronyms, and added to chapter 3. - andrewjunyoung
+* c8bfbd9 - Wed, 3 Apr 2019 13:51:15 +0100 (1 year, 2 months ago)
+|           3_2: Split this into different sections: removing old file. - andrewjunyoung
+* 2e3bff4 - Wed, 3 Apr 2019 13:50:52 +0100 (1 year, 2 months ago)
+|           chapters, report: Made changes to intor, chapter 3, and added VM to the acronyms glossary. - andrewjunyoung
+* d345a0d - Wed, 3 Apr 2019 13:49:42 +0100 (1 year, 2 months ago)
+|           notes.txt: Removed. - andrewjunyoung
+* 5e5f785 - Wed, 3 Apr 2019 13:40:32 +0100 (1 year, 2 months ago)
+|           3_1b: Extracted useful text from this into snippets.txt. - andrewjunyoung
+* 10bef6f - Tue, 2 Apr 2019 22:33:46 +0100 (1 year, 2 months ago)
+|           b: Updated specs with Vermont (commented) and libraries (done in full but 2 TODOs). - andrewjunyoung
+* 39cb4a9 - Tue, 2 Apr 2019 22:17:29 +0100 (1 year, 2 months ago)
+|           Updated tood. - andrewjunyoung
+* 4f10bd8 - Tue, 2 Apr 2019 22:05:57 +0100 (1 year, 2 months ago)
+|           todo: Added. - andrewjunyoung
+* 292ff2d - Tue, 2 Apr 2019 21:44:17 +0100 (1 year, 2 months ago)
+|           Updated acknowledgements. - andrewjunyoung
+* 3a67808 - Tue, 2 Apr 2019 21:17:16 +0100 (1 year, 2 months ago)
+|           Added example past thesis from Choo. - andrewjunyoung
+* ad6e405 - Tue, 2 Apr 2019 21:16:14 +0100 (1 year, 2 months ago)
+|           problems.txt: Added for reference. - andrewjunyoung
+* 313f4db - Tue, 2 Apr 2019 21:09:28 +0100 (1 year, 2 months ago)
+|           knock_knock_by(*)/ -> (*)/ - andrewjunyoung
+* a563bb8 - Tue, 2 Apr 2019 21:07:11 +0100 (1 year, 2 months ago)
+|           under_the_hood.pdf: Added essential paper. - andrewjunyoung
+* 349bcf0 - Tue, 2 Apr 2019 21:06:36 +0100 (1 year, 2 months ago)
+|           chapters/3*: Completed the section 3 overview and structure, outlined its key contributions, and added detail to the attack implementation subsection. - andrewjunyoung
+* 3a8b576 - Sun, 10 Mar 2019 15:24:11 +0000 (1 year, 3 months ago)
+|           (notes|snipits).txt: Added short helpful files for me. - andrewjunyoung
+* b4fc4c5 - Sun, 10 Mar 2019 15:23:34 +0000 (1 year, 3 months ago)
+|           chapters: Spelling fixes; report: recompiled and fixed formatting. - andrewjunyoung
+* 46807d0 - Sun, 10 Mar 2019 13:44:30 +0000 (1 year, 3 months ago)
+|           3_2: Fixed layout for readability. - andrewjunyoung
+* 375d164 - Sun, 10 Mar 2019 12:44:30 +0000 (1 year, 3 months ago)
+|           res: Added various resource files. - andrewjunyoung
+* 32f4a18 - Sun, 10 Mar 2019 12:43:41 +0000 (1 year, 3 months ago)
+|           chapters,report: Added writing material on python reimplementation in chapter 3. - andrewjunyoung
+* aad87cc - Thu, 7 Mar 2019 18:15:44 +0000 (1 year, 3 months ago)
+|           papers/: Restructured dir. - andrewjunyoung
+* dcbaeaf - Thu, 7 Mar 2019 18:10:04 +0000 (1 year, 3 months ago)
+|           sample_email_structure.md: Added sample structure for agenda. - andrewjunyoung
+* c13c9de - Tue, 26 Feb 2019 22:31:32 +0000 (1 year, 4 months ago)
+|           3_1_RI_inquiry: Added lines of inquiry which we hope to address. - andrewjunyoung
+* 49ec91c - Wed, 20 Feb 2019 17:14:49 +0000 (1 year, 4 months ago)
+|           pres/: Pushing presentation given to the group 2 weeks ago. - andrewjunyoung
+* e32dfe4 - Wed, 20 Feb 2019 17:14:32 +0000 (1 year, 4 months ago)
+|           report.*: Pushing report stuff. - andrewjunyoung
+* faf9ede - Wed, 20 Feb 2019 17:14:16 +0000 (1 year, 4 months ago)
+|           chapters/: Updates to chapters based off feedback from Andrea, and started section 3 (reimplementation). - andrewjunyoung
+* 6118acf - Tue, 12 Feb 2019 16:58:41 +0000 (1 year, 4 months ago)
+|           pres: Done. - andrewjunyoung
+* 41ead40 - Thu, 7 Feb 2019 18:14:04 +0000 (1 year, 4 months ago)
+|           plan/,interrim/: Finished plan. - andrewjunyoung
+* afb4cb2 - Wed, 6 Feb 2019 23:01:49 +0000 (1 year, 4 months ago)
+|           [Various] - andrewjunyoung
+| *   bc14145 - Wed, 6 Feb 2019 22:57:14 +0000 (1 year, 4 months ago) (refs/stash)
+| |\            WIP on (no branch): 40ee178 [Various]: Finished chapter on KKWT paper, which means the background is now complete - andrewjunyoung
+|/ /  
+| * 176872f - Wed, 6 Feb 2019 22:57:14 +0000 (1 year, 4 months ago)
+|/            index on (no branch): 40ee178 [Various]: Finished chapter on KKWT paper, which means the background is now complete - andrewjunyoung
+* 40ee178 - Wed, 6 Feb 2019 22:21:19 +0000 (1 year, 4 months ago) (overleaf_broke_my_code)
+|           [Various]: Finished chapter on KKWT paper, which means the background is now complete - andrewjunyoung
+* b1264e9 - Wed, 6 Feb 2019 18:49:40 +0000 (1 year, 4 months ago)
+|           chapters/: Done up to 2.7.5. - andrewjunyoung
+* 0d1a94c - Tue, 5 Feb 2019 12:52:33 +0000 (1 year, 4 months ago)
+|           chapters/: DOne to2.6.1. - andrewjunyoung
+* 8740288 - Tue, 5 Feb 2019 12:33:32 +0000 (1 year, 4 months ago)
+|           report.tex: Apparently I didn't have this... wut. - andrewjunyoung
+* 49d81f8 - Tue, 5 Feb 2019 12:33:10 +0000 (1 year, 4 months ago)
+|           imgs/: Added images for QB systems and QB systems flow diagrams. - andrewjunyoung
+* f94b89f - Tue, 5 Feb 2019 12:32:48 +0000 (1 year, 4 months ago)
+|           res/: Added resources for QB systems diagrams. - andrewjunyoung
+* c117cdd - Tue, 5 Feb 2019 12:31:41 +0000 (1 year, 4 months ago)
+|           chapters/: Totally done until 2.5.2. - andrewjunyoung
+* 7d8b9d6 - Tue, 5 Feb 2019 11:05:29 +0000 (1 year, 4 months ago)
+|           papers/: Added. - andrewjunyoung
+* 76798f8 - Mon, 4 Feb 2019 23:16:52 +0000 (1 year, 4 months ago)
+|           chapters/: Completely done until 2.4.1. - andrewjunyoung
+* 1b68617 - Sun, 3 Feb 2019 11:57:55 +0000 (1 year, 4 months ago)
+|           res/: Added docs for mid review. - andrewjunyoung
+* 802928f - Sun, 3 Feb 2019 11:57:32 +0000 (1 year, 4 months ago)
+|           .gitignore: Removed .tex files from gitignore. - andrewjunyoung
+* 5fec9ea - Sun, 3 Feb 2019 11:57:12 +0000 (1 year, 4 months ago)
+|           Makefile: Added commands for cleaning. - andrewjunyoung
+* e3bce10 - Sun, 3 Feb 2019 11:56:58 +0000 (1 year, 4 months ago)
+|           chapters/: Renamed, added lots of content. Todo: Finish draft for background today. - andrewjunyoung
+* e1c0ac9 - Fri, 1 Feb 2019 20:19:08 +0000 (1 year, 4 months ago)
+|           chapters/: Added overview for background, and started section on summaries. - andrewjunyoung
+* 7276a0c - Thu, 31 Jan 2019 12:28:59 +0000 (1 year, 4 months ago)
+|           [Various]: Pushing drafts, recompiled report, plan for upcoming changes, and papers. This will keep the repo up to date with admin docs. - andrewjunyoung
+* 8d615ba - Thu, 31 Jan 2019 12:27:51 +0000 (1 year, 4 months ago)
+|           chapters/: Fixed spelling in accordance with dad's corrections. - andrewjunyoung
+* 8e2826a - Mon, 28 Jan 2019 13:58:24 +0000 (1 year, 5 months ago)
+|           imgs/: Added picture of leakage,utility - andrewjunyoung
+* 0df089b - Mon, 28 Jan 2019 13:49:48 +0000 (1 year, 5 months ago)
+|           papers/,Makefile,drafts/: Updated misc resources for project. - andrewjunyoung
+* 1b0845f - Mon, 28 Jan 2019 13:48:45 +0000 (1 year, 5 months ago)
+|           chapters/,report.*: Updated bibliography and worked substantially on the background. - andrewjunyoung
+* 5265a88 - Fri, 25 Jan 2019 15:23:33 +0000 (1 year, 5 months ago)
+|           res/: Added resources for DP_QS diagram XML. - andrewjunyoung
+* 8a3cb2f - Thu, 24 Jan 2019 22:33:09 +0000 (1 year, 5 months ago)
+|           report/[Various]: Changed title and parts of background. - andrewjunyoung
+* 5ef75ed - Thu, 24 Jan 2019 22:32:36 +0000 (1 year, 5 months ago)
+|           imgs/: Added images of DP and query sensitivity concepts. - andrewjunyoung
+* c8389d1 - Thu, 24 Jan 2019 22:31:55 +0000 (1 year, 5 months ago)
+|           papers/: Added new papers. - andrewjunyoung
+* e3040b4 - Tue, 22 Jan 2019 15:30:03 +0000 (1 year, 5 months ago)
+|           chapters/: Made changes in light of Natalia's feedback. Todo: Make changes to legislative section of the introduction. gp - andrewjunyoung
+* e8472ad - Tue, 22 Jan 2019 11:31:44 +0000 (1 year, 5 months ago)
+|           subset_of_locs_prior.py: Fixed spacing. - andrewjunyoung
+* 3647fbb - Tue, 22 Jan 2019 11:22:38 +0000 (1 year, 5 months ago)
+|           *.py: Removed whitespace. - andrewjunyoung
+* baa307c - Tue, 22 Jan 2019 11:20:01 +0000 (1 year, 5 months ago)
+|           papers/: Added new papers unique_in_the_crowd and big_data_and_privacy from PCAST. - andrewjunyoung
+* 3d449e9 - Tue, 22 Jan 2019 11:19:32 +0000 (1 year, 5 months ago)
+|           report.*: Updated bibliography. - andrewjunyoung
+* 6b5f5c6 - Tue, 22 Jan 2019 11:19:14 +0000 (1 year, 5 months ago)
+|           chapters/: More work on existing sections. - andrewjunyoung
+* cbb6bfd - Mon, 21 Jan 2019 19:19:35 +0000 (1 year, 5 months ago)
+|           chapters/: Made changes to introduction, background, and glossary, mostly affecting presentation and writing rather than content. - andrewjunyoung
+* 4ecaecd - Mon, 21 Jan 2019 19:19:01 +0000 (1 year, 5 months ago)
+|           report.bib: Added citations and updated bibliography. - andrewjunyoung
+* 2861022 - Mon, 21 Jan 2019 00:25:26 +0000 (1 year, 5 months ago)
+|           papers/: Updated record of papers used for this report. - andrewjunyoung
+* 713c1b3 - Mon, 21 Jan 2019 00:25:04 +0000 (1 year, 5 months ago)
+|           report/: Added newly compiled pdf and removed old bibliography.bib file. - andrewjunyoung
+* 2cfc41a - Mon, 21 Jan 2019 00:24:43 +0000 (1 year, 5 months ago)
+|           .gitignore: Ignoring more latex compilation files. - andrewjunyoung
+* 9dbfd05 - Mon, 21 Jan 2019 00:24:07 +0000 (1 year, 5 months ago)
+|           report.*: Removed compilation files from git. - andrewjunyoung
+* f3e0c92 - Mon, 21 Jan 2019 00:22:11 +0000 (1 year, 5 months ago)
+|           Report: Made changes to chapter content, in particular in the background where formulas are detailed. - andrewjunyoung
+* 294ddce - Mon, 21 Jan 2019 00:21:37 +0000 (1 year, 5 months ago)
+|           report.bib: Moved bibliography to here. - andrewjunyoung
+* d5f6c20 - Mon, 21 Jan 2019 00:21:20 +0000 (1 year, 5 months ago)
+|           Makefile: Moved into report/ dir. - andrewjunyoung
+* b448325 - Mon, 21 Jan 2019 00:20:57 +0000 (1 year, 5 months ago)
+|           attack_repo: Added self and UCL code bases. - andrewjunyoung
+* f8b9aed - Thu, 17 Jan 2019 11:48:12 +0000 (1 year, 5 months ago)
+|           Makefile: Added file to clean directories. - andrewjunyoung
+* 6226cc5 - Thu, 17 Jan 2019 11:18:59 +0000 (1 year, 5 months ago)
+|           [Various]: Removed files to ignore in future. - andrewjunyoung
+* df3cddf - Thu, 17 Jan 2019 11:18:19 +0000 (1 year, 5 months ago)
+|           .gitignore: Added basic file extensions and types to ignore. - andrewjunyoung
+* b3c6d94 - Thu, 17 Jan 2019 11:16:38 +0000 (1 year, 5 months ago)
+            report/: Added initial state of report. - andrewjunyoung
